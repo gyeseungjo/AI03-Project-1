@@ -9,7 +9,7 @@
   * **전수현 (Project Lead):** Baseline 구축, 학습 및 평가 파이프라인 개발
   * **조은영 (Data Engineer):** Albumentations 기반 데이터 Augmentation, 데이터 전처리 및 EDA
   * **배진석 (ML Engineer):** YOLO 아키텍처 실험 및 성능 튜닝
-  * **조계승 (AI Engineer / R&D):** Faster R-CNN 백본(ResNet-50) 설계, 소형 객체 특화 Anchor 조정 및 3차 실험 리드, Two-Phase 분리 학습 기법 설계, WBF 이종 앙상블 파이프라인 구축
+  * **조계승 (AI Engineer / R&D):** Faster R-CNN 백본(ResNet-50) 설계, 소형 객체 특화 Anchor 조정 및 3차 실험, Two-Phase 분리 학습 기법 설계
 
 ---
 
